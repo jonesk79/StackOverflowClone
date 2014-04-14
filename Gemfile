@@ -9,6 +9,11 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'bcrypt'
 gem 'bootstrap-sass'
+gem 'textacular'
+gem 'twitter-bootstrap-rails'
+gem 'less-rails'
+gem 'therubyracer'
+gem 'libv8'
 
 group :development do
   gem 'better_errors'
