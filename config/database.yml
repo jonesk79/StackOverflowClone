@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: stackoverflowclone_development
+
+test:
+  adapter: postgresql
+  database: stackoverflowclone_test
+
+
